@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContadorBaloncesto</string>
+    <string name="menu">equipos</string>
+</resources>
